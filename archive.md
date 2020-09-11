@@ -1,5 +1,5 @@
 ---
-title: About
+title: Archive
 permalink: "/archive"
 layout: default
 ---
