@@ -1,8 +1,9 @@
 ---
-layout: default
 title: About
-permalink: /extras
+permalink: "/extras"
+layout: default
 ---
+
 # Extras
 
 This might be a nice place to put some of your concept art.

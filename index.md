@@ -1,8 +1,9 @@
 ---
-layout: default
 title: About
-permalink: /index.html
+permalink: "/index.html"
+layout: default
 ---
+
 # Welcome to the Plain Webcomic Live Demo!
 
 This is a Jekyll theme that you can host using Github pages.

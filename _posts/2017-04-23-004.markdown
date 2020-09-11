@@ -1,8 +1,10 @@
 ---
+title: '4'
+date: 2017-04-23 18:42:56 Z
+permalink: "/004"
+categories:
+- page
 layout: comic
-title:  "4"
-date:   2017-04-23 11:42:56 -0700
-category: page
-permalink: /004
 ---
+
 ![PAGE FOUR]({{ site.url }}/pages/004.png)

@@ -1,8 +1,9 @@
 ---
-layout: default
 title: About
-permalink: /archive
+permalink: "/archive"
+layout: default
 ---
+
 # Archive
 
 <ul class="post-list archive-ul">
